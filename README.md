@@ -1,9 +1,4 @@
-# THIS_WILL_BE_RENAMED
+# Welcome Github User!
+# This Site is currently in build.
 
-__SUBTITLE_WILL_BE_RENAMED__
-
-TEXT
-
-
-
-
+__WAIT UNTIL THIS PROJECT FINISH__
